@@ -1,3 +1,3 @@
 # RealEQ-ASAAS
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/jaywestmarketing/RealEQ-ASAAS)
+Created by Joe, CEO of RealE.
